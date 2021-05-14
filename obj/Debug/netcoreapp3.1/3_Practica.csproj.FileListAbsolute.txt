@@ -1,0 +1,13 @@
+C:\Users\SStas\OneDrive\Документы\Студент\ПРАКТИКА\3_Practica\bin\Debug\netcoreapp3.1\3_Practica.exe
+C:\Users\SStas\OneDrive\Документы\Студент\ПРАКТИКА\3_Practica\bin\Debug\netcoreapp3.1\3_Practica.deps.json
+C:\Users\SStas\OneDrive\Документы\Студент\ПРАКТИКА\3_Practica\bin\Debug\netcoreapp3.1\3_Practica.runtimeconfig.json
+C:\Users\SStas\OneDrive\Документы\Студент\ПРАКТИКА\3_Practica\bin\Debug\netcoreapp3.1\3_Practica.runtimeconfig.dev.json
+C:\Users\SStas\OneDrive\Документы\Студент\ПРАКТИКА\3_Practica\bin\Debug\netcoreapp3.1\3_Practica.dll
+C:\Users\SStas\OneDrive\Документы\Студент\ПРАКТИКА\3_Practica\bin\Debug\netcoreapp3.1\3_Practica.pdb
+C:\Users\SStas\OneDrive\Документы\Студент\ПРАКТИКА\3_Practica\obj\Debug\netcoreapp3.1\3_Practica.csprojAssemblyReference.cache
+C:\Users\SStas\OneDrive\Документы\Студент\ПРАКТИКА\3_Practica\obj\Debug\netcoreapp3.1\3_Practica.AssemblyInfoInputs.cache
+C:\Users\SStas\OneDrive\Документы\Студент\ПРАКТИКА\3_Practica\obj\Debug\netcoreapp3.1\3_Practica.AssemblyInfo.cs
+C:\Users\SStas\OneDrive\Документы\Студент\ПРАКТИКА\3_Practica\obj\Debug\netcoreapp3.1\3_Practica.csproj.CoreCompileInputs.cache
+C:\Users\SStas\OneDrive\Документы\Студент\ПРАКТИКА\3_Practica\obj\Debug\netcoreapp3.1\3_Practica.dll
+C:\Users\SStas\OneDrive\Документы\Студент\ПРАКТИКА\3_Practica\obj\Debug\netcoreapp3.1\3_Practica.pdb
+C:\Users\SStas\OneDrive\Документы\Студент\ПРАКТИКА\3_Practica\obj\Debug\netcoreapp3.1\3_Practica.genruntimeconfig.cache
